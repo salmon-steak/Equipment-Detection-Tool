@@ -26,9 +26,3 @@
 - **Deployment**: PyInstaller
 
 ---
-
-## 🚀 快速使用指南 (Quick Start)
-
-1. 下載本專案發布的 `PPE_Vision_System` 可攜式資料夾。
-2. 確保 `v11s_kd_v18s_best.pt` 模型檔與 `detect.exe` 位於同一個目錄下。
-3. 雙擊執行 `detect.exe` 即可啟動系統！
